@@ -22,5 +22,5 @@ bjorn = [
   ]
 
 module.exports = (robot) ->
-  robot.hear /hot out there/i, (msg) ->
+  robot.hear /hot | heat | warming up/i, (msg) ->
     msg.send msg.random bjorn
