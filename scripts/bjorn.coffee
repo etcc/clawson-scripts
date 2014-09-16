@@ -8,7 +8,7 @@
 #   None
 #
 # Commands:
-#   robot.hear /(hot|heat\warming up)/i
+#   robot.hear /(hot|heat|warming up)/i
 #
 # Author:
 #  jenniferburkhart
